@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\bin\Debug\net8.0\MusicStore.DAL.deps.json
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\bin\Debug\net8.0\MusicStore.DAL.dll
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\bin\Debug\net8.0\MusicStore.DAL.pdb
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.AssemblyInfo.cs
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.dll
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\refint\MusicStore.DAL.dll
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.pdb
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\ref\MusicStore.DAL.dll
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\bin\Debug\net8.0\MusicStore.DAL.runtimeconfig.json
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\PRN212\PRN212_Assignment_MusicStore\MusicStore.DAL\obj\Debug\net8.0\MusicStore.DAL.genruntimeconfig.cache
